@@ -10,6 +10,6 @@ app.use(express.json());
 app.use("/", user);
 
 // start the Express server
-app.listen(PORT, () => {
-  console.log(`Server listening on port ${PORT}`);
+app.listen(80, () => {
+  console.log(`Server listening on port ${80}`);
 });
