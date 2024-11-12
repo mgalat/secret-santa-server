@@ -9,6 +9,8 @@ const couples = {
   Gab: "Lauren",
   Nic: "Meg",
   Meg: "Nic",
+  Greg: "Tracey",
+  Tracey: "Greg",
 };
 
 const getUsers = async () => {
